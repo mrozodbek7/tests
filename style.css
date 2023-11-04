@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.backgroundcol{
+    background-blend-mode: multiply;
+background: linear-gradient(233.95deg, #0D1E20 -73.12%, #313E2A 53.36%, #262D20 103.17%);
+/* background: rgba(255, 255, 255, 1); */
+
+
+}
+.hov:active{
+    border: solid 0.5px;
+    border-color:rgba(252, 67, 8, 1);
+    /* transition: .2s; */
+    border-radius: 1rem;
+    cursor: pointer;
+
+}
+.hov:hover{
+    
+    border-color:rgba(252, 67, 8, 1);
+    
+    
+    cursor: pointer;
+}
+.our-work{
+    background-color: rgba(14, 21, 19, 1);
+    ;
+}
+.buttons{
+    border: solid 1px;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    border-color: rgba(252, 67, 8, 1);
+    color: rgba(252, 67, 8, 1);
+    background-color: rgba(14, 21, 19, 1);
+    
+}
+.buttons:active{
+    border: solid 1px;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    border-color: rgba(252, 67, 8, 1);
+    color: rgb(0, 0, 0);
+    background-color: rgba(252, 67, 8, 1);
+}
+.forbtn{
+    display: flex;
+    justify-content: end;
+}
+
+
+
+
+
+
+
+
+
+.container p {
+    width: 430px;
+    height: 120px;
+
+}
+.containers {
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-left: 2rem; */
+
+}
+.ffff{
+    /* font-size: 1.5rem; */
+}
+.fffff img{
+    width: 496px;
+    height: 680px;
+    
+
+
+}
+.containerr button{
+    padding: 5px 10px;
+    border-radius: 0.3rem;
+}
+.contain .imm{
+    /* display: flex; */
+    /* justify-content: space-evenly;   */
+    width: 560px;
+    height:640px;
+
+
+}
+.allcolorthird{
+    background: linear-gradient(90deg, #323E2A 0%, #101815 100%);
+
+}
+.contains .mii{
+    width:560px;
+    height: 640px;
+
+
+}
+.birinchi{
+    text-align: center;
+}
+.imagess{
+    text-align: center;
+}
+.thirds{
+    text-align: center;
+}
+.textalign{
+    text-align: center;
+}
+.footercolor{
+    background: rgba(14, 21, 19, 1);
+
+}
+hr{
+    color: rgba(252, 67, 8, 1);
+    border: solid;
+    border-color: rgba(252, 67, 8, 1);
+}
+
+
+
